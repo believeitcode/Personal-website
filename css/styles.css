@@ -71,6 +71,10 @@ p {
   text-decoration: underline;
 }
 
+.profile-img {
+    border-radius: 50%;
+}
+
 .intro {
   width: 30%;
   margin: auto;
